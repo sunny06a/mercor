@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Mercor Search Engineering Assignment</title>
 </head>
 <body>
 <h1>Mercor Search Engineering Assignment</h1>
@@ -59,7 +58,6 @@ python search.py</code></pre>
 <h2>Files Included</h2>
 <ul>
     <li><code>search.py</code> - Main implementation</li>
-    <li><code>results.txt</code> - Complete execution output with scores</li>
     <li><code>README.md</code> - This file</li>
     <li><code>requirements.txt</code> - Python dependencies</li>
 </ul>
